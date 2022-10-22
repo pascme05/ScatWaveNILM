@@ -12,8 +12,8 @@ An overview of a few datasets that can be used with the ScatWaveNILM toolkit and
 
 Please note that due to the size of the HF datasets these cannot be provided in the repository. The input size of the dataset should be in the following form: 
 
-a) One .mat file per dataset
-b) Size (Samples x Timeseries x Features)
+1) One .mat file per dataset
+2) Size (Samples x Timeseries x Features)
 
 # Dependencies
 The ScatWaveNILM toolkit was implemented using the following dependencies:
